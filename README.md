@@ -1,3 +1,3 @@
 # responsive-navbar-sticky
 
-<img="banner.jpg" />
+<img src="banner.jpg" alt="error" />
